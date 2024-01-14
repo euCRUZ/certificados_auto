@@ -14,7 +14,7 @@ Copy code<br>
 pip install openpyxl<br>
 pip install Pillow<br>
 <br>
-<h2>Project Structure<br></h2>h2>
+<h2>Project Structure<br></h2>
 
 spreadsheet_students.xlsx: Excel spreadsheet containing student information.<br>
 default_certification.jpg: Template image for the certificates.<br>
