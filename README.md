@@ -16,7 +16,7 @@ pip install Pillow<br>
 <br>
 <h2>Project Structure<br></h2>
 
-spreadsheet_students.xlsx: Excel spreadsheet containing student information.<br>
+spreadsheet_students.xlsx: Excel spreadsheet containing student information (fictitious data).<br>
 default_certification.jpg: Template image for the certificates.<br>
 fonts/: Directory containing Tahoma and Tahoma Bold fonts.<br>
 certificate_generator.py: Python script to read data from the spreadsheet and generate certificates.<br>
