@@ -19,8 +19,9 @@ pip install Pillow<br>
 spreadsheet_students.xlsx: Excel spreadsheet containing student information (fictitious data).<br>
 default_certification.jpg: Template image for the certificates.<br>
 fonts/: Directory containing Tahoma and Tahoma Bold fonts.<br>
-certificate_generator.py: Python script to read data from the spreadsheet and generate certificates.<br>
-<br>Usage<br>
+certificate_generator.py: Python script to read data from the spreadsheet and generate certificates.
+
+<h2><br>Usage<br></h2>
 Replace the sample data in the spreadsheet_students.xlsx file with the actual student information.
 Ensure that the template image (default_certification.jpg) and font files in the fonts/ directory are suitable for your certificates.
 Run the certificate_generator.py script.
